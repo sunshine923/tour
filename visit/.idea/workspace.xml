@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a6aeee-b8c8-476e-83e2-24cff11398a7" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/views/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newslist.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/views/newslist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/views/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+              <folding>
+                <marker date="1514212018061" expanded="true" signature="9838:9892" ph="..." />
+                <marker date="1514212018061" expanded="true" signature="11457:11511" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public/js/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="90" column="43" lean-forward="false" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+              <folding>
+                <marker date="1514212992999" expanded="true" signature="305:448" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="342:439" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="532:556" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="637:649" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="650:737" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="753:777" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="918:985" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="953:980" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="1342:1644" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="1476:1536" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="1608:1635" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="1665:1710" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="2066:2115" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="2137:2595" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2152:2168" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2207:2223" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2376:2392" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2431:2447" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="2675:2724" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="2746:2979" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2761:2777" ph="..." />
+                <marker date="1514212992999" expanded="false" signature="2816:2832" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="3059:3108" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="3130:3201" ph="..." />
+                <marker date="1514212992999" expanded="true" signature="4100:4154" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/visit/App/Public/img/</find>
+      <find>btns</find>
+      <find>img/</find>
+      <find>IRJS_Overlay</find>
+      <find>rotL</find>
+      <find>l1</find>
+      <find>l</find>
+      <find>food.</find>
+      <find>btns1</find>
+      <find>db</find>
+      <find>gid</find>
+      <find>title</find>
+      <find>banner-img</find>
+      <find>sec</find>
+      <find>sect</find>
+      <find>main</find>
+      <find>detail</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/visit/App/Public/img/</replace>
+      <replace>/visit/Public/img/</replace>
+      <replace>newslist.</replace>
+      <replace>btns</replace>
+      <replace>mysql</replace>
+      <replace>aid</replace>
+      <replace>ctitle</replace>
+      <replace>scroll</replace>
+      <replace>detail1</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/query.php" />
+        <option value="$PROJECT_DIR$/select.php" />
+        <option value="$PROJECT_DIR$/update.php" />
+        <option value="$PROJECT_DIR$/aa.php" />
+        <option value="$PROJECT_DIR$/insert.php" />
+        <option value="$PROJECT_DIR$/Core/db.php" />
+        <option value="$PROJECT_DIR$/App/view/index.html" />
+        <option value="$PROJECT_DIR$/详情/base.css" />
+        <option value="$PROJECT_DIR$/详情/tour.html" />
+        <option value="$PROJECT_DIR$/详情/home.html" />
+        <option value="$PROJECT_DIR$/详情/home.css" />
+        <option value="$PROJECT_DIR$/详情/tour.css" />
+        <option value="F:/1企业站/about.html" />
+        <option value="$PROJECT_DIR$/详情/detail.css" />
+        <option value="$PROJECT_DIR$/详情/detail.html" />
+        <option value="$PROJECT_DIR$/App/tour.php" />
+        <option value="$PROJECT_DIR$/App/detail.php" />
+        <option value="$PROJECT_DIR$/App/newslist.php" />
+        <option value="$PROJECT_DIR$/App/about.php" />
+        <option value="$PROJECT_DIR$/App/culture.php" />
+        <option value="$PROJECT_DIR$/Public/js/contact.js" />
+        <option value="$PROJECT_DIR$/Public/js/culture.js" />
+        <option value="$PROJECT_DIR$/Public/js/about.js" />
+        <option value="$PROJECT_DIR$/App/views/index.html" />
+        <option value="$PROJECT_DIR$/App/home.php" />
+        <option value="$PROJECT_DIR$/App/views/contact.html" />
+        <option value="$PROJECT_DIR$/checklogin.php" />
+        <option value="$PROJECT_DIR$/Public/css/home.css" />
+        <option value="$PROJECT_DIR$/Public/js/newslist.js" />
+        <option value="$PROJECT_DIR$/App/detail1.php" />
+        <option value="$PROJECT_DIR$/Public/js/detail1.js" />
+        <option value="$PROJECT_DIR$/Public/css/detail.css" />
+        <option value="$PROJECT_DIR$/Public/css/detail1.css" />
+        <option value="$PROJECT_DIR$/Public/css/newslist.css" />
+        <option value="$PROJECT_DIR$/Public/css/about.css" />
+        <option value="$PROJECT_DIR$/Public/css/culture.css" />
+        <option value="$PROJECT_DIR$/Public/css/contact.css" />
+        <option value="$PROJECT_DIR$/Public/js/aa.html" />
+        <option value="$PROJECT_DIR$/Public/js/tour.js" />
+        <option value="$PROJECT_DIR$/Public/css/tour.css" />
+        <option value="$PROJECT_DIR$/Public/js/detail.js" />
+        <option value="$PROJECT_DIR$/Public/js/head.js" />
+        <option value="$PROJECT_DIR$/App/views/about.html" />
+        <option value="$PROJECT_DIR$/App/views/culture.html" />
+        <option value="$PROJECT_DIR$/App/views/detail.html" />
+        <option value="$PROJECT_DIR$/App/views/detail1.html" />
+        <option value="$PROJECT_DIR$/App/views/tour.html" />
+        <option value="$PROJECT_DIR$/App/views/home.html" />
+        <option value="$PROJECT_DIR$/App/views/newslist.html" />
+        <option value="$PROJECT_DIR$/Public/js/home.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="visit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\360Downloads\wamp\www\visit\详情\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\360Downloads\wamp\www\visit\Public\img" />
+      <recent name="D:\360Downloads\wamp\www\visit\Public\js" />
+      <recent name="D:\360Downloads\wamp\www\visit\Public\css" />
+      <recent name="D:\360Downloads\wamp\www\visit\App\views" />
+      <recent name="D:\360Downloads\wamp\www\visit\App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a6aeee-b8c8-476e-83e2-24cff11398a7" name="默认" comment="" />
+      <created>1513153274191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513153274191</updated>
+      <workItem from="1513153275479" duration="7724000" />
+      <workItem from="1513176780699" duration="1850000" />
+      <workItem from="1513212158848" duration="12801000" />
+      <workItem from="1513258906302" duration="10408000" />
+      <workItem from="1513299661480" duration="29238000" />
+      <workItem from="1513345478054" duration="7454000" />
+      <workItem from="1513388318315" duration="7074000" />
+      <workItem from="1513429656705" duration="13177000" />
+      <workItem from="1513491288372" duration="7592000" />
+      <workItem from="1513499973934" duration="15960000" />
+      <workItem from="1513558959066" duration="5054000" />
+      <workItem from="1513593200025" duration="649000" />
+      <workItem from="1513730846326" duration="611000" />
+      <workItem from="1514126945976" duration="4515000" />
+      <workItem from="1514163253703" duration="1841000" />
+      <workItem from="1514171186434" duration="2114000" />
+      <workItem from="1514180083167" duration="7913000" />
+      <workItem from="1514206609502" duration="5890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="141865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21603929" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Public/img/more.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/more1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/mountain.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/mp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/new.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/oneyeknowantumn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/newsline.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-91505.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-462146hui.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-556416.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-449627.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pline.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/poor.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/push.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/qianming.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/qq.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/road-220058_960_720.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/rotate.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/sanjiao.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/scene.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/shadow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/shangchuan.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/star.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/team.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/thenews.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/travel.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/tree-avenue-back-light-sun.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/video1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/yosemite-national-park-2507042_960_720.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/yellowstone-national-park-sunset-twilight-dusk-158489.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/weixin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/yello.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-448714.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-417370.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-414268hui.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-414268.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-372098.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-253758.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-325200.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-371530.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-275538.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-244517.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-247478.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-234734.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-220453.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-129441.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/img/pexels-photo-220052.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views/newslist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+          <folding>
+            <marker date="1514212018061" expanded="true" signature="9838:9892" ph="..." />
+            <marker date="1514212018061" expanded="true" signature="11457:11511" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="90" column="43" lean-forward="false" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+          <folding>
+            <marker date="1514212992999" expanded="true" signature="305:448" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="342:439" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="532:556" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="637:649" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="650:737" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="753:777" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="918:985" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="953:980" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="1342:1644" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="1476:1536" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="1608:1635" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="1665:1710" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="2066:2115" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="2137:2595" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2152:2168" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2207:2223" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2376:2392" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2431:2447" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="2675:2724" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="2746:2979" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2761:2777" ph="..." />
+            <marker date="1514212992999" expanded="false" signature="2816:2832" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="3059:3108" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="3130:3201" ph="..." />
+            <marker date="1514212992999" expanded="true" signature="4100:4154" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
